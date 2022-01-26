@@ -1,17 +1,17 @@
-<h1 align="center">Hi í±‹, I'm Sumit Banik</h1>
+<h1 align="center">Hi ðŸ‘‹, I'm Sumit Banik</h1>
 <h3 align="center">An Automation Test Engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isumitbanik&label=Profile%20views&color=0e75b6&style=flat" alt="isumitbanik" /> </p>
 
 <p align="left"> <a href="https://twitter.com/thesumitbanik" target="blank"><img src="https://img.shields.io/twitter/follow/thesumitbanik?logo=twitter&style=for-the-badge" alt="thesumitbanik" /></a> </p>
 
-- í´­ Iâ€™m currently working on [learn-go-programming](https://github.com/iSumitBanik/learn-go-programming)
+- ðŸ”­ Iâ€™m currently working on [learn-go-programming](https://github.com/iSumitBanik/learn-go-programming)
 
-- í¼± Iâ€™m currently learning **Go Programming**
+- ðŸŒ± Iâ€™m currently learning **Go Programming**
 
-- í²¬ Ask me about **Python, Robot Framework, C, HTML**
+- ðŸ’¬ Ask me about **Python, Robot Framework, C, HTML**
 
-- í³« How to reach me **sumitbanik02@gmail.com**
+- ðŸ“« How to reach me **sumitbanik02@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
