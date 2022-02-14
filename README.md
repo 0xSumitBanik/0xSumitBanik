@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/thesumitbanik" target="blank"><img src="https://img.shields.io/twitter/follow/thesumitbanik?logo=twitter&style=for-the-badge" alt="thesumitbanik" /></a> </p>
 
-- 🔭 I’m currently working on [learn-go-programming](https://github.com/iSumitBanik/learn-go-programming)
+- 🔭 I’m currently working on [Solidity Smart Contracts Code](https://github.com/iSumitBanik/solidity-code-contracts)
 
-- 🌱 I’m currently learning **Go Programming**
+- 🌱 I’m currently learning **Solidity**
 
 - 💬 Ask me about **Python, Robot Framework, C, HTML**
 
