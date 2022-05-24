@@ -7,7 +7,7 @@ Hi 👋 My name is Sumit
 *   ✉️  You can contact me at [sumitbanik02@gmail.com](mailto:sumitbanik02@gmail.com)
 *   🧠  I'm learning Cryptography, Solidity and programming using Go!
 
-<a href="https://www.twitter.com/TheSumitBanik" target="_blank" rel="noreferrer"><img
+<a href="https://www.twitter.com/0xsumitbanik" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/TheSumitBanik?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
                 /></a>
                 
